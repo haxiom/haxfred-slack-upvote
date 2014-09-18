@@ -1,0 +1,29 @@
+{
+  "name": "haxfred-irc-upvote",
+  "version": "0.0.1",
+  "description": "Upvote module for IRC and Haxfred",
+  "repository": {
+    "url": "https://github.com/crookedneighbor/haxfred-irc-upvote"
+  },
+  "main": "./lib/haxfred-irc-upvote",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": {
+    "name": "lejeunerenard"
+  },
+  "license": "GPL v2.0",
+  "dependencies": {
+    "haxfred-irc": "git://github.com/haxiom/haxfred-irc"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "haxfred": "git://github.com/haxiom/haxfred#development",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  }
+}
