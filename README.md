@@ -1,4 +1,4 @@
-haxfred-irc-upvote
+haxfred-upvote
 ==================
 
 # Running

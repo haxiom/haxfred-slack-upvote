@@ -6,7 +6,7 @@ var path = require('path');
 var chai = require('chai');
 
 var helpers = require('../lib/helpers');
-var upvote = require('../lib/haxfred-irc-upvote');
+var upvote = require('../lib/haxfred-upvote');
 var Haxfred = require('haxfred');
 
 chai.use(expect);
