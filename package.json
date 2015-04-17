@@ -1,11 +1,11 @@
 {
-  "name": "haxfred-upvote",
+  "name": "haxfred-slack-upvote",
   "version": "0.0.1",
   "description": "Upvote module for Haxfred",
   "repository": {
     "url": "https://github.com/crookedneighbor/haxfred-irc-upvote"
   },
-  "main": "./lib/haxfred-upvote",
+  "main": "./lib/haxfred-slack-upvote",
   "directories": {
     "test": "test"
   },

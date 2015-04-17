@@ -1,4 +1,4 @@
-haxfred-upvote
+haxfred-slack-upvote
 ==================
 
 # Running
