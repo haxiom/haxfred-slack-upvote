@@ -19,7 +19,7 @@ describe('Upvoting', function () {
   var haxfred;
   beforeEach(function() {
     haxfred = new Haxfred({
-      adapters: ['../node_modules/haxfred-irc/lib/haxfred-irc.js', 'haxfred-irc-upvote.js'],
+      adapters: ['../node_modules/haxfred-irc/lib/haxfred-irc.js', 'haxfred-upvote.js'],
       // Config is necessary to pass
       // @TODO determine how to deal with lack of config
       // haxfred-irc doesnt care if the server isnt defined.
