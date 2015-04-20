@@ -6,8 +6,3 @@ haxfred-slack-upvote
 npm i
 npm start
 ```
-# Testing
-
-```bash
-npm test
-```
