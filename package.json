@@ -3,25 +3,18 @@
   "version": "0.0.1",
   "description": "Upvote module for Haxfred",
   "repository": {
-    "url": "https://github.com/crookedneighbor/haxfred-irc-upvote"
+    "url": "https://github.com/haxiom/haxfred-slack-upvote"
   },
   "main": "./lib/haxfred-slack-upvote",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha -w"
-  },
   "author": {
-    "name": "lejeunerenard"
+    "name": "Haxiom"
   },
-  "license": "GPL v2.0",
-  "devDependencies": {
-    "chai": "^2.2.0",
-    "haxfred": "haxiom/haxfred",
-    "haxfred-irc": "haxiom/haxfred-irc",
-    "mocha": "^2.2.4",
-    "sinon": "^1.14.1",
-    "sinon-chai": "^2.7.0"
-  }
+  "contributors": [{
+    "name": "Sean Zellmer",
+    "email": "sean@lejeunerenard.com"
+  }, {
+    "name": "Blade Barringer",
+    "email": "blade@bladebarringer.com"
+  }],
+  "license": "GPL v2.0"
 }
